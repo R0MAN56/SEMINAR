@@ -1,0 +1,15 @@
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\obj\Debug\net6.0\SEMINAR4_DZ.csproj.AssemblyReference.cache
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\obj\Debug\net6.0\SEMINAR4_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\obj\Debug\net6.0\SEMINAR4_DZ.AssemblyInfoInputs.cache
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\obj\Debug\net6.0\SEMINAR4_DZ.AssemblyInfo.cs
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\obj\Debug\net6.0\SEMINAR4_DZ.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\bin\Debug\net6.0\SEMINAR4_DZ.exe
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\bin\Debug\net6.0\SEMINAR4_DZ.deps.json
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\bin\Debug\net6.0\SEMINAR4_DZ.runtimeconfig.json
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\bin\Debug\net6.0\SEMINAR4_DZ.dll
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\bin\Debug\net6.0\SEMINAR4_DZ.pdb
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\obj\Debug\net6.0\SEMINAR4_DZ.dll
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\obj\Debug\net6.0\refint\SEMINAR4_DZ.dll
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\obj\Debug\net6.0\SEMINAR4_DZ.pdb
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\obj\Debug\net6.0\SEMINAR4_DZ.genruntimeconfig.cache
+C:\Users\roman\Desktop\GeekBrains\1_Задания\GIT\SEMINAR4_DZ\obj\Debug\net6.0\ref\SEMINAR4_DZ.dll
