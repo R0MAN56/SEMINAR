@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEMINAR7_DZ/1.0.0": {
+        "runtime": {
+          "SEMINAR7_DZ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEMINAR7_DZ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
